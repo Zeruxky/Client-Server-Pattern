@@ -1,6 +1,6 @@
 # Client-Server-Pattern
 This is a simple implementation of client-server-pattern in Java. This repository was built in the course 
-'Design of softwaresystems' at the university of Innsbruck (faculty computer science). No GUI - only terminal based.
+'Design of software systems' at the university of Innsbruck (faculty computer science). No GUI - only terminal based.
 
 ## Functionalities
 The pattern should provide following functionalities:
